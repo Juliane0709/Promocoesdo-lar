@@ -38,7 +38,7 @@
   </style>
 </head>
 <body>
-  <img src="logo.jpg" alt="Logo" class="logo" />
+  <img src="logo.png" alt="Logo" class="logo" />
   <a class="btn" href="https://chat.whatsapp.com/FhAQQL37oRn2jQUF1L35lq" target="_blank">ENTRAR NO GRUPO</a>
 </body>
 </html>
